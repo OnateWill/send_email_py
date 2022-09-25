@@ -1,6 +1,7 @@
 # send_email_simple
 
 Description.
+
 Send emails with app Outlook with Python.
 
 ## Installing
