@@ -9,7 +9,7 @@ Send emails with app Outlook with Python.
 Use de pack manager [pip](https://pip.pypa.io/en/stable/) to install send_email_simple
 
 
-pip install package_name
+pip install -i https://test.pypi.org/simple/ send-simple-email
 
 
 ## Usage
