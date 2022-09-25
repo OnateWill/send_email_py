@@ -3,12 +3,12 @@ import win32com.client as win32
 
 def enviar_email(destino: str, assunto: str, body: str):
     """
-    Este código envia um e-mail simples, ou seja, sem anexos
+    Este código envia um e-mail simples, ou seja, sem anexos.
     Para utilizar este código, você deve ter o app do outlook em seu
     windows.
 
     :destino: coloque o endereço de email
-    :assunto: coloque sem assunto/subject
+    :assunto: coloque seu assunto/subject
     :body: coloque seu corpo do email
     """
 
