@@ -9,12 +9,12 @@ with open("requirements.txt") as f:
 setup(
     name="send_simple_email",
     version="0.0.1",
-    author="my_name",
-    author_email="my_email",
-    description="My short description",
+    author="William Onate",
+    author_email="contatowilliamrco@gmail.com",
+    description="Send Simple E-mails with Python",
     long_description=page_description,
     long_description_content_type="text/markdown",
-    url="my_github_repository_project_link",
+    url="https://github.com/OnateWill/send_email_py/blob/main/send_simple_email/enviar_email_com_python.py",
     packages=find_packages(),
     install_requires=requirements,
     python_requires='>=3.10')
